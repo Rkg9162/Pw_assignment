@@ -1,4 +1,4 @@
-// What is IMutable String in Java Explain with an Example
+// What is Mutable String in Java Explain with an Example
 
 public class assignment {
     public static void main(String[] args) {
